@@ -100,7 +100,7 @@ pip install -q json-repair==0.47.1 numexpr==2.11.0 openai==1.74.0 pandas==2.3.0 
 
 ---
 
-## What This Demonstrates (for Recruiters)
+## What This Demonstrates
 
 - Practical **Agentic AI**: not just prompting, but orchestrating **multi-step autonomy** with verifiable state and guardrails.
 - **Production mindset**: schemas, idempotent mocks, and inspectable data frames make it **testable, auditable, and extensible**.
