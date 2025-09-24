@@ -3,7 +3,8 @@
 Design and implementation of an **agentic travel-planning system** that plans a multi-day trip to “AgentsVille,” showcasing **role-based prompting**, **Chain-of-Thought (CoT)** planning, **ReAct** (reason–act–observe) loops, and **self-evaluation feedback** to refine itineraries under changing constraints like weather and traveler preferences.
 
 ## Why this project
-Recruiters and hiring managers want to see **working evidence** of agentic patterns beyond simple single-prompt demos. This project:
+
+This project demonstrates **working evidence** of agentic patterns beyond simple single-prompt demos.:
 - Implements an **end-to-end ReAct loop** with tool use (mocked APIs), structured state, and observable outputs.
 - Uses **typed schemas (Pydantic)** to validate inputs/outputs so agent steps are auditable and production-friendly.
 - Demonstrates **feedback-driven iteration**: the agent evaluates and revises a plan based on traveler feedback and environmental constraints (e.g., weather).
